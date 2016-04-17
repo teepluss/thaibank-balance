@@ -1,0 +1,20 @@
+{
+  "name": "teepluss/balance",
+  "description": "Check the Thai Banking Balance.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Teepluss",
+      "email": "admin@jquerytips.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Teepluss\\Balance\\": "src/"
+    }
+  }
+}
